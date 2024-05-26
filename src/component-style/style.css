@@ -1,0 +1,13 @@
+nav{
+    width: 80%; height:150px; justify-content: space-between; padding-left:20px;padding-right:20px;
+}
+p,ul{
+    font-family: sans-serif;
+}
+.li-element:hover{
+    color: #fff;
+    transition: all ease-in 150ms;
+}
+.li-element{
+    cursor: pointer;
+}
